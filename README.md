@@ -1,3 +1,3 @@
 # LeetCode
 
-#Includes practice problems and solutions.
+Includes practice problems and solutions.
