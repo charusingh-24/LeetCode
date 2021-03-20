@@ -1,0 +1,47 @@
+USE AdventureWorks2008R2;
+
+-- 2-1
+
+SELECT SalesPersonID AS [SALES PERSON ID], SalesOrderID AS [SALES ORDER ID], CAST(OrderDate AS DATE) AS [ORDER DATE], CAST(ROUND(TotalDue,2) AS DECIMAL(10,2))  AS [TOTAL DUE AMOUNT]
+FROM Sales.SalesOrderHeader WHERE SalesPersonID = '276' AND (TotalDue > 40000)
+ORDER BY SalesOrderID, OrderDate
+
+-- 2-2
+
+SELECT TerritoryID AS [TERRITORY ID], COUNT(SalesOrderNumber) AS [TOTAL NUMBER OF ORDERS], CAST((ROUND(SUM(TotalDue),4)) AS INT) AS [TOTAL SALES AMOUNT]
+FROM Sales.SalesOrderHeader 
+GROUP BY TerritoryID HAVING COUNT(SalesOrderNumber)>5000
+ORDER BY TerritoryID
+
+-- 2-3
+
+SELECT ProductID AS [PRODUCT ID], Name AS [PRODUCT NAME], ListPrice AS [PRODUCT PRICE], CAST(SellStartDate AS DATE) AS [SELL START DATE] 
+FROM Production.Product
+WHERE ListPrice > (SELECT ListPrice from Production.Product WHERE ProductID = 888)
+ORDER BY ListPrice DESC
+
+-- 2-4
+
+SELECT SO.ProductID AS [PRODUCT ID],  P.Name AS [PRODUCT NAME], SUM(SO.OrderQty) AS [QUANTITY SOLD]
+FROM Sales.SalesOrderDetail SO INNER JOIN Production.Product P ON SO.PRODUCTID = P.PRODUCTID
+GROUP BY SO.ProductID,  P.Name 
+HAVING SUM(SO.OrderQty) > 2000
+ORDER BY SUM(SO.OrderQty) DESC
+
+-- 2-5
+
+SELECT CustomerID AS [UNIQUE CUSTOMER ID] FROM 
+(SELECT DISTINCT SOH.CustomerID, SOD.PRODUCTID 
+FROM Sales.SalesOrderHeader SOH JOIN Sales.SalesOrderDetail SOD ON SOH.SalesOrderID = SOD.SalesOrderID 
+WHERE SOD.PRODUCTID IN (715,710) ) T
+GROUP BY CustomerID
+HAVING COUNT(CustomerID)>1
+ORDER BY CustomerID
+
+-- 2-6
+
+SELECT SOH.TerritoryID AS [TERRITORY ID], ST.Name AS [TERRITORY NAME], CAST(ROUND(MAX(SOH.TotalDue),2) AS DECIMAL(10,2)) AS [HIGHEST ORDER VALUE]
+FROM Sales.SalesOrderHeader SOH INNER JOIN Sales.SalesTerritory ST ON SOH.TerritoryID = ST.TerritoryID
+GROUP BY SOH.TerritoryID, ST.Name
+HAVING MAX(SOH.TotalDue) <= 140000
+ORDER BY SOH.TerritoryID
