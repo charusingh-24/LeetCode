@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="info5100.university.example.Employer.EmployerProfile" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Employer/EmployerProfile.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="179" x="-42" y="1499"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="info5100.university.example.Persona.Faculty.FacultyAssignment" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Persona/Faculty/FacultyAssignment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="277" x="1181" y="1979"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="info5100.university.example.Employer.EmployerDirectory" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Employer/EmployerDirectory.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="261" x="171" y="337"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="info5100.university.example.Persona.Person" project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Persona/Person.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="137" width="174" x="355" y="1979"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="info5100.university.example.CourseCatalog.Course" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/CourseCatalog/Course.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="191" width="203" x="1385" y="1748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="info5100.university.example.CourseCatalog.CourseCatalog" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/CourseCatalog/CourseCatalog.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="155" width="220" x="1373" y="976"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="info5100.university.example.Persona.Transcript" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Persona/Transcript.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="137" width="282" x="500" y="1499"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="8" language="java" name="info5100.university.example.Persona.EmploymentHistory" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Persona/EmploymentHistory" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="52" width="405" x="416" y="153"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="9" language="java" name="info5100.university.example.Persona.StudentDirectory" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Persona/StudentDirectory.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="249" x="512" y="781"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="info5100.university.example.Persona.Faculty.FacultyProfile" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Persona/Faculty/FacultyProfile.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="297" x="1048" y="1748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="11" language="java" name="info5100.university.example.Department" project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Department" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="52" width="292" x="1179" y="-62"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="12" language="java" name="info5100.university.example.CourseSchedule.CourseSchedule" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/CourseSchedule/CourseSchedule.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="155" width="273" x="1299" y="781"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="13" language="java" name="info5100.university.example.CourseCatalog" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/CourseCatalog" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="52" width="314" x="863" y="337"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="14" language="java" name="info5100.university.example.CourseSchedule.SeatAssignment" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/CourseSchedule/SeatAssignment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="239" x="686" y="2174"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="info5100.university.example.Info5001UniversityExample" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Info5001UniversityExample.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="101" width="207" x="472" y="337"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="16" language="java" name="info5100.university.example.Persona" project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Persona" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="52" width="269" x="563" y="61"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="17" language="java" name="info5100.university.example.Persona.Faculty.FacultyDirectory" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Persona/Faculty/FacultyDirectory.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="248" x="885" y="781"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="info5100.university.example.Department.Calendar" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Department/Calendar.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="101" width="292" x="1280" y="496"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="19" language="java" name="info5100.university.example.Persona.Faculty" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Persona/Faculty" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="52" width="322" x="1219" y="153"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="20" language="java" name="info5100.university.example.Persona.EmploymentHistory.Employment" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Persona/EmploymentHistory/Employment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="263" x="-2" y="1312"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="info5100.university.example.Persona.StudentProfile" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Persona/StudentProfile.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="155" width="282" x="458" y="976"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="info5100.university.example.CourseSchedule.Seat" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/CourseSchedule/Seat.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="155" width="235" x="906" y="1979"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="23" language="java" name="info5100.university.example.CourseSchedule" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/CourseSchedule" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="52" width="325" x="1259" y="245"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="24" language="java" name="info5100.university.example.Persona.StudentAccount" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Persona/StudentAccount.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="83" width="174" x="455" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="info5100.university.example.CourseSchedule.CourseOffer" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/CourseSchedule/CourseOffer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1148" y="1435"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="info5100.university.example.CourseSchedule.CourseLoad" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/CourseSchedule/CourseLoad.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="137" width="300" x="524" y="1748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="info5100.university.example.Department.Department" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Department/Department.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="245" width="269" x="863" y="496"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="28" language="java" name="info5100.university.example.Employer" project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Employer" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="52" width="278" x="150" y="245"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="29" language="java" name="info5100.university.example.Persona.EmploymentHistory.EmploymentHistroy" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Persona/EmploymentHistory/EmploymentHistroy.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="263" x="8" y="1171"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="info5100.university.example.Persona.PersonDirectory" 
+    project="Info5001-University-Example" 
+    file="/Info5001-University-Example/src/info5100/university/example/Persona/PersonDirectory.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="174" x="193" y="781"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="31">    
+    <bendpoint x="996" y="1748"/>    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="32" name="facultyassignment"/>      
+      <multiplicity id="33" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="34">    
+    <bendpoint x="832" y="496"/>    
+    <bendpoint x="854" y="781"/>    
+    <bendpoint x="1184" y="976"/>    
+    <bendpoint x="1237" y="1171"/>    
+    <bendpoint x="1289" y="1312"/>    
+    <bendpoint x="1289" y="1499"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <association id="35">    
+    <bendpoint x="343" y="976"/>    
+    <bendpoint x="343" y="1171"/>    
+    <bendpoint x="322" y="1312"/>    
+    <bendpoint x="322" y="1499"/>    
+    <bendpoint x="322" y="1748"/>    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="36" name="personlist"/>      
+      <multiplicity id="37" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="38">    
+    <bendpoint x="1571" y="61"/>    
+    <bendpoint x="1571" y="153"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <dependency id="39">    
+    <bendpoint x="1728" y="61"/>    
+    <bendpoint x="1728" y="153"/>    
+    <bendpoint x="1728" y="245"/>    
+    <bendpoint x="1728" y="337"/>    
+    <bendpoint x="1728" y="496"/>    
+    <bendpoint x="1728" y="781"/>    
+    <bendpoint x="1728" y="976"/>    
+    <bendpoint x="1728" y="1171"/>    
+    <bendpoint x="1728" y="1312"/>    
+    <bendpoint x="1728" y="1499"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="40">    
+    <bendpoint x="1184" y="781"/>    
+    <bendpoint x="1237" y="976"/>    
+    <bendpoint x="1289" y="1171"/>    
+    <bendpoint x="1331" y="1312"/>    
+    <bendpoint x="1338" y="1499"/>    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <association id="41">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="42" name="department"/>      
+      <multiplicity id="43" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="44">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="45" name="coursecatalog"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="47">    
+    <bendpoint x="1163" y="781"/>    
+    <bendpoint x="1163" y="976"/>    
+    <bendpoint x="1163" y="1171"/>    
+    <bendpoint x="1163" y="1312"/>    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <association id="48">    
+    <bendpoint x="963" y="1748"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="49" name="courseoffer"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="52" name="employer"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="54">    
+    <bendpoint x="460" y="496"/>    
+    <bendpoint x="460" y="781"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="55">    
+    <bendpoint x="920" y="153"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <association id="56">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="57" name="courseloadlist"/>      
+      <multiplicity id="58" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="60" name="facultydirectory"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="62">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="63" name="employments"/>      
+      <multiplicity id="64" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="65">    
+    <bendpoint x="1226" y="781"/>    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="66" name="coursecatalog"/>      
+      <multiplicity id="67" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="68">    
+    <bendpoint x="418" y="496"/>    
+    <bendpoint x="418" y="781"/>    
+    <bendpoint x="402" y="976"/>    
+    <bendpoint x="385" y="1171"/>    
+    <bendpoint x="364" y="1312"/>    
+    <bendpoint x="343" y="1499"/>    
+    <bendpoint x="343" y="1748"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="69">    
+    <bendpoint x="833" y="781"/>    
+    <bendpoint x="854" y="976"/>    
+    <bendpoint x="854" y="1171"/>    
+    <bendpoint x="854" y="1312"/>    
+    <bendpoint x="854" y="1499"/>    
+    <bendpoint x="854" y="1748"/>    
+    <bendpoint x="854" y="1979"/>    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="70">    
+    <bendpoint x="481" y="496"/>    
+    <bendpoint x="481" y="781"/>    
+    <bendpoint x="791" y="976"/>    
+    <bendpoint x="833" y="1171"/>    
+    <bendpoint x="875" y="1312"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="71">    
+    <bendpoint x="502" y="496"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <association id="72">    
+    <bendpoint x="406" y="1171"/>    
+    <bendpoint x="385" y="1312"/>    
+    <bendpoint x="364" y="1499"/>    
+    <bendpoint x="364" y="1748"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="73" name="person"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="75">    
+    <bendpoint x="98" y="496"/>    
+    <bendpoint x="48" y="781"/>    
+    <bendpoint x="-3" y="976"/>    
+    <bendpoint x="-65" y="1171"/>    
+    <bendpoint x="-65" y="1312"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="76" name="employerlist"/>      
+      <multiplicity id="77" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="78">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="79" name="persondirectory"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="81">    
+    <bendpoint x="119" y="153"/>    
+    <bendpoint x="56" y="245"/>    
+    <bendpoint x="14" y="337"/>    
+    <bendpoint x="14" y="496"/>    
+    <bendpoint x="14" y="781"/>    
+    <bendpoint x="14" y="976"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <association id="82">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="83" name="studentdirectory"/>      
+      <multiplicity id="84" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="85">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="86" name="department"/>      
+      <multiplicity id="87" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="88">    
+    <bendpoint x="1686" y="61"/>    
+    <bendpoint x="1687" y="153"/>    
+    <bendpoint x="1687" y="245"/>    
+    <bendpoint x="1686" y="337"/>    
+    <bendpoint x="1665" y="496"/>    
+    <bendpoint x="1644" y="781"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="89">    
+    <bendpoint x="875" y="1748"/>    
+    <bendpoint x="875" y="1979"/>    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="90">    
+    <bendpoint x="770" y="976"/>    
+    <bendpoint x="488" y="1171"/>    
+    <bendpoint x="427" y="1312"/>    
+    <bendpoint x="406" y="1499"/>    
+    <bendpoint x="406" y="1748"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="91">    
+    <bendpoint x="872" y="61"/>    
+    <bendpoint x="872" y="153"/>    
+    <bendpoint x="872" y="245"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <association id="92">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="93" name="studentlist"/>      
+      <multiplicity id="94" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="95">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="96" name="seatassignment"/>      
+      <multiplicity id="97" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="98">    
+    <bendpoint x="832" y="245"/>    
+    <bendpoint x="832" y="337"/>    
+    <bendpoint x="1205" y="496"/>    
+    <bendpoint x="1205" y="781"/>    
+    <bendpoint x="1205" y="976"/>    
+    <bendpoint x="1205" y="1171"/>    
+    <bendpoint x="1205" y="1312"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <association id="99">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="100" name="person"/>      
+      <multiplicity id="101" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="102">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <association id="103">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="104" name="course"/>      
+      <multiplicity id="105" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="106">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <association id="107">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="108" name="nextemplyment"/>      
+      <multiplicity id="109" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="110">    
+    <bendpoint x="1581" y="337"/>    
+    <bendpoint x="1602" y="496"/>    
+    <bendpoint x="1602" y="781"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="111">    
+    <bendpoint x="1342" y="976"/>    
+    <bendpoint x="1347" y="1171"/>    
+    <bendpoint x="1352" y="1312"/>    
+    <bendpoint x="1352" y="1499"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="112">    
+    <bendpoint x="98" y="61"/>    
+    <bendpoint x="98" y="153"/>    
+    <bendpoint x="98" y="245"/>    
+    <bendpoint x="119" y="337"/>    
+    <bendpoint x="161" y="496"/>    
+    <bendpoint x="397" y="781"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="113">    
+    <bendpoint x="1707" y="61"/>    
+    <bendpoint x="1707" y="153"/>    
+    <bendpoint x="1707" y="245"/>    
+    <bendpoint x="1707" y="337"/>    
+    <bendpoint x="1707" y="496"/>    
+    <bendpoint x="1686" y="781"/>    
+    <bendpoint x="1644" y="976"/>    
+    <bendpoint x="1373" y="1171"/>    
+    <bendpoint x="1310" y="1312"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <association id="114">    
+    <bendpoint x="624" y="1979"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="115" name="courseload"/>      
+      <multiplicity id="116" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="117">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="118" name="seat"/>      
+      <multiplicity id="119" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="120">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="121" name="department"/>      
+      <multiplicity id="122" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="123">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="124" name="employmenthistory"/>      
+      <multiplicity id="125" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="126">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <association id="127">    
+    <bendpoint x="1394" y="1171"/>    
+    <bendpoint x="1394" y="1312"/>    
+    <bendpoint x="1394" y="1499"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="128" name="courselist"/>      
+      <multiplicity id="129" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="130">    
+    <bendpoint x="1188" y="61"/>    
+    <bendpoint x="1188" y="153"/>    
+    <bendpoint x="1198" y="245"/>    
+    <bendpoint x="1207" y="337"/>    
+    <bendpoint x="1163" y="496"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="131">    
+    <bendpoint x="458" y="245"/>    
+    <bendpoint x="140" y="337"/>    
+    <bendpoint x="119" y="496"/>    
+    <bendpoint x="118" y="781"/>    
+    <bendpoint x="47" y="976"/>    
+    <bendpoint x="-23" y="1171"/>    
+    <bendpoint x="-33" y="1312"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="132">    
+    <bendpoint x="942" y="1748"/>    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="133" name="seatlist"/>      
+      <multiplicity id="134" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="135">    
+    <bendpoint x="833" y="976"/>    
+    <bendpoint x="791" y="1171"/>    
+    <bendpoint x="630" y="1312"/>    
+    <bendpoint x="469" y="1499"/>    
+    <bendpoint x="469" y="1748"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="136">    
+    <bendpoint x="1184" y="496"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <association id="137">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="138" name="mastercoursecatalog"/>      
+      <multiplicity id="139" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="140">    
+    <bendpoint x="385" y="61"/>    
+    <bendpoint x="385" y="153"/>    
+    <bendpoint x="547" y="245"/>    
+    <bendpoint x="709" y="337"/>    
+    <bendpoint x="709" y="496"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <association id="141">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="142" name="employments"/>      
+      <multiplicity id="143" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="144">    
+    <bendpoint x="791" y="781"/>    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <association id="145">    
+    <bendpoint x="1017" y="1748"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="146" name="courseoffer"/>      
+      <multiplicity id="147" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="148">    
+    <bendpoint x="77" y="61"/>    
+    <bendpoint x="77" y="153"/>    
+    <bendpoint x="77" y="245"/>    
+    <bendpoint x="77" y="337"/>    
+    <bendpoint x="140" y="496"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <dependency id="149">    
+    <bendpoint x="1644" y="337"/>    
+    <bendpoint x="1644" y="496"/>    
+    <bendpoint x="1665" y="781"/>    
+    <bendpoint x="1665" y="976"/>    
+    <bendpoint x="1665" y="1171"/>    
+    <bendpoint x="1665" y="1312"/>    
+    <bendpoint x="1665" y="1499"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="150">    
+    <bendpoint x="439" y="496"/>    
+    <bendpoint x="439" y="781"/>    
+    <bendpoint x="427" y="976"/>    
+    <bendpoint x="438" y="1171"/>    
+    <bendpoint x="448" y="1312"/>    
+    <bendpoint x="448" y="1499"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="151">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="152">    
+    <bendpoint x="1623" y="337"/>    
+    <bendpoint x="1623" y="496"/>    
+    <bendpoint x="1623" y="781"/>    
+    <bendpoint x="1623" y="976"/>    
+    <bendpoint x="1498" y="1171"/>    
+    <bendpoint x="1373" y="1312"/>    
+    <bendpoint x="1317" y="1499"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="153">    
+    <bendpoint x="603" y="1979"/>    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="154" name="seatassignments"/>      
+      <multiplicity id="155" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="156">    
+    <bendpoint x="509" y="1171"/>    
+    <bendpoint x="509" y="1312"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="157" name="transcript"/>      
+      <multiplicity id="158" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="159">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <association id="160">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="161" name="currentcourseload"/>      
+      <multiplicity id="162" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="163">    
+    <bendpoint x="140" y="153"/>    
+    <bendpoint x="140" y="61"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="164">    
+    <bendpoint x="851" y="153"/>    
+    <bendpoint x="821" y="245"/>    
+    <bendpoint x="790" y="337"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="165">    
+    <bendpoint x="1614" y="61"/>    
+    <bendpoint x="1614" y="153"/>    
+    <bendpoint x="1614" y="245"/>    
+    <bendpoint x="1602" y="337"/>    
+    <bendpoint x="1249" y="496"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="166">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="167">    
+    <bendpoint x="35" y="61"/>    
+    <bendpoint x="35" y="153"/>    
+    <bendpoint x="35" y="245"/>    
+    <bendpoint x="35" y="337"/>    
+    <bendpoint x="56" y="496"/>    
+    <bendpoint x="97" y="781"/>    
+    <bendpoint x="209" y="976"/>    
+    <bendpoint x="322" y="1171"/>    
+    <bendpoint x="343" y="1312"/>    
+    <bendpoint x="385" y="1499"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <association id="168">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="169" name="facultyassignments"/>      
+      <multiplicity id="170" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="171">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="172" name="relevantcourseoffers"/>      
+      <multiplicity id="173" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="174">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="175" name="facultyprofile"/>      
+      <multiplicity id="176" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="177">    
+    <bendpoint x="1665" y="337"/>    
+    <bendpoint x="1686" y="496"/>    
+    <bendpoint x="1707" y="781"/>    
+    <bendpoint x="1707" y="976"/>    
+    <bendpoint x="1707" y="1171"/>    
+    <bendpoint x="1707" y="1312"/>    
+    <bendpoint x="1707" y="1499"/>    
+    <bendpoint x="1707" y="1748"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="178">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="179">    
+    <bendpoint x="1209" y="61"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <association id="180">    
+    <bendpoint x="1268" y="976"/>    
+    <bendpoint x="1268" y="1171"/>    
+    <bendpoint x="1268" y="1312"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="181" name="schedule"/>      
+      <multiplicity id="182" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="183">    
+    <bendpoint x="893" y="245"/>    
+    <bendpoint x="811" y="337"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="184">    
+    <bendpoint x="56" y="337"/>    
+    <bendpoint x="35" y="496"/>    
+    <bendpoint x="6" y="781"/>    
+    <bendpoint x="-24" y="976"/>    
+    <bendpoint x="-44" y="1171"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="185">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="186">    
+    <bendpoint x="1228" y="245"/>    
+    <bendpoint x="1228" y="337"/>    
+    <bendpoint x="1228" y="496"/>    
+    <bendpoint x="1268" y="781"/>    
+    <bendpoint x="1258" y="976"/>    
+    <bendpoint x="1247" y="1171"/>    
+    <bendpoint x="1247" y="1312"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <association id="187">    
+    <bendpoint x="1142" y="976"/>    
+    <bendpoint x="1184" y="1171"/>    
+    <bendpoint x="1226" y="1312"/>    
+    <bendpoint x="1268" y="1499"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="188" name="teacherlist"/>      
+      <multiplicity id="189" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="190">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <dependency id="191">    
+    <bendpoint x="770" y="1171"/>    
+    <bendpoint x="791" y="1312"/>    
+    <bendpoint x="812" y="1499"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="192">    
+    <bendpoint x="161" y="153"/>    
+    <bendpoint x="119" y="245"/>    
+    <bendpoint x="98" y="337"/>    
+    <bendpoint x="77" y="496"/>    
+    <bendpoint x="173" y="781"/>    
+    <bendpoint x="269" y="976"/>    
+    <bendpoint x="364" y="1171"/>    
+    <bendpoint x="406" y="1312"/>    
+    <bendpoint x="427" y="1499"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <association id="193">    
+    <bendpoint x="1247" y="781"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="194" name="department"/>      
+      <multiplicity id="195" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="196">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="197" name="mastercatalog"/>      
+      <multiplicity id="198" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="199">    
+    <bendpoint x="182" y="496"/>    
+    <bendpoint x="162" y="781"/>    
+    <bendpoint x="232" y="976"/>    
+    <bendpoint x="301" y="1171"/>    
+    <bendpoint x="301" y="1312"/>    
+    <bendpoint x="301" y="1499"/>    
+    <bendpoint x="301" y="1748"/>    
+    <bendpoint x="301" y="1979"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="200">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="201">    
+    <bendpoint x="342" y="496"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <dependency id="202">    
+    <bendpoint x="812" y="781"/>    
+    <bendpoint x="812" y="976"/>    
+    <bendpoint x="812" y="1171"/>    
+    <bendpoint x="823" y="1312"/>    
+    <bendpoint x="833" y="1499"/>    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="203">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="204">    
+    <bendpoint x="730" y="337"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
